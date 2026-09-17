@@ -7,13 +7,13 @@
 Вся документация проекта: [Wiki](https://github.com/TVOJ_NIK/project/wiki)
 
 ## 👥 Эксперты
-- TVOJ_NIK (автор)
-- NIK_1
-- NIK_2
+- Vladislav (автор)
+- Alexsandr
+- Egor
 
 ## 📄 Структура Wiki
-- [Home](https://github.com/TVOJ_NIK/project/wiki/Home)
-- [Ideas](https://github.com/TVOJ_NIK/project/wiki/Ideas)
-- [Evaluation](https://github.com/TVOJ_NIK/project/wiki/Evaluation)
-- [Concept](https://github.com/TVOJ_NIK/project/wiki/Concept)
-- [Stakeholders](https://github.com/TVOJ_NIK/project/wiki/Stakeholders)
+- [Home](https://github.com/Vlad2mosh/project/wiki/Home)
+- [Ideas](https://github.com/Vlad2mosh/project/wiki/Ideas)
+- [Evaluation](https://github.com/Vlad2mosh/project/wiki/Evaluation)
+- [Concept](https://github.com/Vlad2mosh/project/wiki/Concept)
+- [Stakeholders](https://github.com/Vlad2mosh/project/wiki/Stakeholders)
