@@ -4,7 +4,7 @@
 Лабораторная работа №1: Инициация программного проекта.
 
 ## 📚 Wiki
-Вся документация проекта: [Wiki](https://github.com/TVOJ_NIK/project/wiki)
+Вся документация проекта: [Wiki](https://github.com/Vlad2mosh/project/wiki)
 
 ## 👥 Эксперты
 - Vladislav (автор)
