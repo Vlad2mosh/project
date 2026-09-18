@@ -6,10 +6,6 @@
 ## 📚 Wiki
 Вся документация проекта: [Wiki](https://github.com/Vlad2mosh/project/wiki)
 
-## 👥 Эксперты
-- Vladislav (автор)
-- Alexsandr
-- Egor
 
 ## 📄 Структура Wiki
 - [Home](https://github.com/Vlad2mosh/project/wiki/Home)
