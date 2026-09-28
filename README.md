@@ -17,7 +17,7 @@
 
 ## 📦 Публикация
 Сайт публикуется через GitHub Pages:
-`https://TVOJ_NIK.github.io/project/`
+https://Vlad2mosh.github.io/project/
 
 ## 📚 Wiki
 Вся документация проекта: [Wiki](https://github.com/Vlad2mosh/project/wiki)
