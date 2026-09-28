@@ -29,3 +29,10 @@ https://Vlad2mosh.github.io/project/
 - [Evaluation](https://github.com/Vlad2mosh/project/wiki/Evaluation)
 - [Concept](https://github.com/Vlad2mosh/project/wiki/Concept)
 - [Stakeholders](https://github.com/Vlad2mosh/project/wiki/Stakeholders)
+## FAQ
+
+Как выбрать машину? Открой каталог, отфильтруй по бюджету и кузову.
+
+Как посчитать стоимость владения? Открой калькулятор и введи параметры.
+
+Что проверить при осмотре? Открой чек-лист - там 13 пунктов.
