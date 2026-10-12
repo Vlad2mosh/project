@@ -22,7 +22,6 @@ https://Vlad2mosh.github.io/project/
 ## 📚 Wiki
 Вся документация проекта: [Wiki](https://github.com/Vlad2mosh/project/wiki)
 
-
 ## 📄 Структура Wiki
 - [Home](https://github.com/Vlad2mosh/project/wiki/Home)
 - [Ideas](https://github.com/Vlad2mosh/project/wiki/Ideas)
@@ -36,3 +35,29 @@ https://Vlad2mosh.github.io/project/
 Как посчитать стоимость владения? Открой калькулятор и введи параметры.
 
 Что проверить при осмотре? Открой чек-лист - там 13 пунктов.
+
+## 📦 Что умеет продукт сейчас
+
+**Текущее состояние (лабораторная 3):**
+- README с описанием цели и функций.
+- Wiki с документацией (Home, Ideas, Evaluation, Concept, Stakeholders, Team, Development).
+- Структура репозитория: `content/`, `data/`.
+- Kanban-доска в GitHub Projects.
+
+**Планируется (лабораторная 4+):**
+- HTML/CSS/JS для каталога моделей.
+- Сравнение 2–3 моделей.
+- Калькулятор стоимости владения.
+- Чек-лист осмотра.
+
+## ✅ Definition of Done (DoD)
+
+Задача считается готовой, если:
+- код написан и работает;
+- изменения в отдельной ветке;
+- PR прошёл ревью и слит в `main`;
+- сайт работает на GitHub Pages;
+- документация обновлена;
+- задача в колонке **Done**.
+
+Подробнее — на странице [Development](https://github.com/Vlad2mosh/project/wiki/Development).
