@@ -1,0 +1,26 @@
+@startuml
+skinparam componentStyle rectangle
+
+actor "Покупатель\n(пользователь)" as User
+actor "Разработчик\n(команда)" as Dev
+actor "GitHub Pages\n(хостинг)" as GH
+
+rectangle "CarPick — статический сайт" {
+  component "Frontend\n(HTML/CSS)" as FE
+  component "JS-логика\n(catalog, compare, calculator)" as JS
+  database "Данные\n(js/data.js — модели)" as Data
+}
+
+cloud "Внешние сервисы" {
+  component "GitHub Repo\n(исходники)" as Repo
+  component "GitHub Actions\n(CI/CD)" as CI
+}
+
+User --> FE : открывает сайт
+Dev --> Repo : пушит изменения
+Dev --> CI : запускает workflow
+Repo --> GH : deploy
+GH --> FE : отдаёт HTML/CSS/JS
+FE --> JS : вызывает функции
+JS --> Data : читает модели
+@enduml
